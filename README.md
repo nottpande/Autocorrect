@@ -1,4 +1,4 @@
-Word-Predictor (Python Project)
+<h1> Word-Predictor (Python Project) </h1>
         <p><strong>Overview:</strong> This Python project is a simple word-predictor that reads a text file and builds a vocabulary from its contents. When a particular word is given as input and that word is not present in the preogram's vocabulary, it predicts a word from its vocabulary that is most likely the "required word", along with a probability score.</p>
         <h2>How it Works</h2>
         <ol>
