@@ -1,4 +1,4 @@
-# Autocorrect (Python Project)
+# Word-Predictor (Python Project)
 
 Overview
 This Python project is a simple spell checker that reads a text file and builds a vocabulary from its contents. When given an input word that is not in the vocabulary, the program suggests the word from the vocabulary that is most likely the correct one, along with a probability score.
